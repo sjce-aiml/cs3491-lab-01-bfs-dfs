@@ -4,6 +4,9 @@
 
 ▶️ **Watch first:** [Lab 01 walkthrough](https://www.youtube.com/@DrAnandharajan) · 📗 **Lesson & quiz:** [https://anandharajan.github.io/gradient-edu/#lab-1](https://anandharajan.github.io/gradient-edu/#lab-1)
 
+📘 **Lab manual (Ex.No 1(a), 1(b)):** record notes [Ex.No1a.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex01_Search/Ex.No1a.txt) · [Ex.No1b.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex01_Search/Ex.No1b.txt). Use them for Aim/Procedure in REPORT.md and your record. The reference program unlocks in the app once you score 60%.
+
+
 ## Your task
 Open `src/lab01.py` and implement every function marked `TODO`. Do **not** rename functions or
 change their parameters — the autograder calls them exactly as written.
